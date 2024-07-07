@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">automation</string>
+    <string name="facebook_app_id">3465090650304277</string>
+    <string name="fb_login_protocol_scheme">fb3465090650304277</string>
+    <string name="facebook_client_token">d1034e7560f9b0988b681d4da062c939</string>
+</resources>
+
